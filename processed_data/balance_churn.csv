@@ -1,0 +1,4 @@
+BalanceSegment,Customer_Count,Churned_Customers,Churn_Rate_%
+Zero-balance,3617,500,13.82
+Low-balance,3192,766,24.0
+High-balance,3191,771,24.16

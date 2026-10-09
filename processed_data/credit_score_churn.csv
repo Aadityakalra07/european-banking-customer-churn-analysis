@@ -1,0 +1,4 @@
+CreditScoreBand,Customer_Count,Churned_Customers,Churn_Rate_%
+Low,2362,520,22.02
+Medium,3331,685,20.56
+High,4307,832,19.32

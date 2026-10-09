@@ -1,0 +1,10 @@
+CreditScoreBand,BalanceSegment,Customer_Count,Churned_Customers,Churn_Rate_%
+High,High-balance,1354,308,22.75
+High,Low-balance,1397,319,22.83
+High,Zero-balance,1556,205,13.17
+Low,High-balance,763,192,25.16
+Low,Low-balance,725,203,28.0
+Low,Zero-balance,874,125,14.3
+Medium,High-balance,1074,271,25.23
+Medium,Low-balance,1070,244,22.8
+Medium,Zero-balance,1187,170,14.32

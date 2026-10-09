@@ -1,0 +1,5 @@
+AgeGroup,Customer_Count,Churned_Customers,Retained_Customers,Churn_Rate_%
+<30,1641,124,1517,7.56
+30–45,6248,956,5292,15.3
+46–60,1647,842,805,51.12
+60+,464,115,349,24.78
